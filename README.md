@@ -7,6 +7,8 @@ I'm a passionate student developer who loves to learn and explore new technologi
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 ## 🌟 Favorite Repository
 [**Pao69/2024**](https://github.com/Pao69/2024)  
@@ -19,6 +21,7 @@ I'm a passionate student developer who loves to learn and explore new technologi
 ## 🌱 Currently Learning
 - Exploring advanced topics in C# and Java
 - Expanding my web development skills with JavaScript and PHP
+- Learning C++ and Angular
 - Open to learning about accessibility and inclusive design
 
 ## 🤝 Looking to Collaborate On
