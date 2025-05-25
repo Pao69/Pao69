@@ -6,9 +6,11 @@ I'm a passionate student developer who loves to learn and explore new technologi
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -22,8 +24,8 @@ I'm a passionate student developer who loves to learn and explore new technologi
 
 ## 🌱 Currently Learning
 - Exploring advanced topics in C# and Java
-- Expanding my web development skills with JavaScript and PHP
-- Learning C++ and Angular
+- Expanding my web development skills with JavaScript, HTML, CSS, and PHP
+- Learning C++, Angular, Vue, and TypeScript
 - Open to learning about accessibility and inclusive design
 
 ## 🤝 Looking to Collaborate On
@@ -33,12 +35,6 @@ I'm a passionate student developer who loves to learn and explore new technologi
 ## 🧠 Fun Facts
 - I have **ADHD** and am **colorblind**—I’m always looking for ways to make my projects more accessible and inclusive!
 - I love experimenting with code and solving real-world problems
-
-<!--
-## 🌐 Social Links
-Coming soon!
--->
-
 ---
 
 _Thanks for visiting my profile! Feel free to check out my repositories or connect if you share similar interests._
