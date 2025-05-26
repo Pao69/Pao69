@@ -2,7 +2,7 @@
 
 I'm a passionate student developer who loves to learn and explore new technologies.
 
-## 💻 Tech Skills
+## 💻 Tech Skills (Ongoing Progress)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
