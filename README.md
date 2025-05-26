@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Pao69!
+# 👋 Hi there, I'm Shaine!
 
 I'm a passionate student developer who loves to learn and explore new technologies.
 
